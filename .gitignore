@@ -1,0 +1,4 @@
+netflix-clone/node_modules/**
+node_modules/**
+netflix-clone/.vscode/**
+netflix-clone/.angular/**
