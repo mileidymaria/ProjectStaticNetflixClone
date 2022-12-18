@@ -1,1 +1,3 @@
 # ProjectStaticNetflixClone
+
+run `ng s`
